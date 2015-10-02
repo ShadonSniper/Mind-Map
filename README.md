@@ -1,5 +1,5 @@
 # Mind-Map
-各种安全相关思维导图整理收集  
+各种安全相关思维导图整理收集与部分图片的思维导图原图
 
 #### [运维安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8.png)  
 #### [渗透的艺术](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E6%B8%97%E9%80%8F%E7%9A%84%E8%89%BA%E6%9C%AF.jpg)
@@ -20,3 +20,4 @@
 #### [PHP代码审计脑图](https://github.com/phith0n/Mind-Map/raw/master/PHP%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%84%91%E5%9B%BE.png)
 #### [Nmap 思维导图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Nmap%20%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 #### [Linux Security Coaching](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Linux%20Security%20Coaching.png)
+#### [渗透测试思维导图原图](https://github.com/ShadonSniper/Mind-Map/blob/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95.mmap)
